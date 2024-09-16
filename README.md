@@ -41,9 +41,9 @@ I have experience across multiple domains, but I am currently specializing in fu
 <hr/>
 
 <div align="center">
-  <h2> <img src="https://github.com/user-attachments/assets/69ea6533-c350-43dd-af40-8611ff6f52f6" width="25" /> My Certifications! <img src="https://github.com/user-attachments/assets/69ea6533-c350-43dd-af40-8611ff6f52f6" width="25" /> </h2>
+  <h2> <img src="https://github.com/user-attachments/assets/b176e9e1-78f1-412c-a382-52efce25560d" width="25" /> My Certifications! <img src="https://github.com/user-attachments/assets/b176e9e1-78f1-412c-a382-52efce25560d" width="25" /> </h2>
   <br>
-  <img src="https://github.com/user-attachments/assets/df73e7d2-a04f-4a47-ab3f-143d54113e4a" width="100" />
+  <img src="https://github.com/user-attachments/assets/8f270e26-19fe-4529-84f7-194fe9aaa8e8" width="100" />
   <br/><br/>
 </div>
 

@@ -44,7 +44,7 @@ I have experience across multiple domains, but I am currently specializing in fu
   <h2> <img src="https://github.com/user-attachments/assets/b176e9e1-78f1-412c-a382-52efce25560d" width="25" /> My Certifications! <img src="https://github.com/user-attachments/assets/b176e9e1-78f1-412c-a382-52efce25560d" width="25" /> </h2>
   <br>
   <a href="https://www.credly.com/badges/bd616172-9b83-45c2-aef2-7689bde401fd/linked_in?t=sjva0c" target="_blank">  
-      <img src="https://github.com/user-attachments/assets/8f270e26-19fe-4529-84f7-194fe9aaa8e8" width="100" target="_blank" />
+      <img src="https://github.com/user-attachments/assets/8f270e26-19fe-4529-84f7-194fe9aaa8e8" width="100" />
   </a>
   <br/><br/>
 </div>

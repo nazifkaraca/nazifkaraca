@@ -48,10 +48,13 @@ I have experience across multiple domains, but I am currently specializing in fu
   </h2>
   <br>
     <a href="https://www.credly.com/badges/bd616172-9b83-45c2-aef2-7689bde401fd/linked_in?t=sjva0c" target="_blank">  
-      <img src="https://github.com/user-attachments/assets/8f270e26-19fe-4529-84f7-194fe9aaa8e8" width="100" />
+      <img src="https://github.com/user-attachments/assets/8f270e26-19fe-4529-84f7-194fe9aaa8e8" width="150" />
     </a>
     <a href="https://www.credly.com/earner/earned/badge/ef126fcf-e2d2-4d13-ac47-fff8a041ee73" target="_blank">  
-        <img src="https://github.com/user-attachments/assets/4024efca-a257-4b32-ae38-1dfd6f2e1870" width="100" />
+        <img src="https://github.com/user-attachments/assets/4024efca-a257-4b32-ae38-1dfd6f2e1870" width="150" />
+    </a>
+    <a href="https://www.credly.com/badges/036048a1-fd9f-4048-bea6-9c1b24bca6e0/print" target="_blank">  
+        <img src="https://github.com/user-attachments/assets/99ef4001-9861-429e-a571-00eab3def9d6" width="150" />
     </a>
   <br/><br/>
 </div>

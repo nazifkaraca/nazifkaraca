@@ -33,8 +33,8 @@ I have experience across multiple domains, but I am currently specializing in fu
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,docker,html,css,vscode,github,git,mongodb,jenkins,matlab" /><br>
-    <img src="https://skillicons.dev/icons?i=vuejs,nodejs,python,javascript,typescript,express,c#,nextjs,posgresql,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,matlab" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c#,nextjs,posgresql,mysql" /><br>
 </div>
 
 <br/>

@@ -12,7 +12,7 @@
  
  Hello! I'm a **Software Engineering Master's** student with a strong passion for **AI, full-stack development**, and **data engineering**. Currently, I'm working on a project focusing on **cognitive biases in AI**, where I explore how human biases can influence AI systems and strategies for mitigating these biases.
 
-I have experience across multiple domains, but I am currently specializing in full-stack development, while also cultivating my interest in data engineering.
+I have experience across multiple domains, but I am currently specializing in full-stack development.
 
  </div>
  
@@ -47,9 +47,6 @@ I have experience across multiple domains, but I am currently specializing in fu
     <img src="https://github.com/user-attachments/assets/b176e9e1-78f1-412c-a382-52efce25560d" width="25" /> 
   </h2>
   <br>
-    <a href="https://www.credly.com/badges/bd616172-9b83-45c2-aef2-7689bde401fd/linked_in?t=sjva0c" target="_blank">  
-      <img src="https://github.com/user-attachments/assets/8f270e26-19fe-4529-84f7-194fe9aaa8e8" width="150" />
-    </a>
     <a href="https://www.credly.com/earner/earned/badge/ef126fcf-e2d2-4d13-ac47-fff8a041ee73" target="_blank">  
         <img src="https://github.com/user-attachments/assets/4024efca-a257-4b32-ae38-1dfd6f2e1870" width="150" />
     </a>
@@ -65,7 +62,7 @@ I have experience across multiple domains, but I am currently specializing in fu
 <br>
 <div align=center>
 
-I'm passionate about **AI and full-stack development**, with a particular interest in how cognitive biases affect AI decision-making. Moving forward, I aim to specialize in **full-stack development**, building robust, scalable applications. While I have experience in data engineering and cloud solutions, my focus is on enhancing my full-stack skills, from frontend to backend, ensuring I stay updated with the latest technologies and best practices in the field.
+I'm passionate about **AI and full-stack development**, with a particular interest in how cognitive biases affect AI decision-making. Moving forward, I aim to specialize in **full-stack development**, building robust, scalable applications. My focus is on enhancing my full-stack skills, from frontend to backend, ensuring I stay updated with the latest technologies and best practices in the field.
 
 I’m constantly learning and growing as a full-stack developer, ready to tackle new challenges and opportunities.
 

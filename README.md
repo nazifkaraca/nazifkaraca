@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Hello! I'm a **Software Engineering Master's** student with a strong passion for **AI, full-stack development**, and **data engineering**. Currently, I'm working on a project focusing on **cognitive biases in AI**, where I explore how human biases can influence AI systems and strategies for mitigating these biases.
+ Hello! I'm a **Software Engineering Master's** student with a strong passion for **full-stack development** Currently, I'm working on a project focusing on **cognitive biases in AI**, where I explore how human biases can influence AI systems and strategies for mitigating these biases.
 
 I have experience across multiple domains, but I am currently specializing in full-stack development.
 
@@ -23,8 +23,8 @@ I have experience across multiple domains, but I am currently specializing in fu
   <a href="https://linkedin.com/in/nazifkaraca" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/nazifkaraca" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://nazifkaraca.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 

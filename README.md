@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Hello! I'm a **Software Engineering Master's** student with a strong passion for **full-stack development** Currently, I'm working on a project focusing on **cognitive biases in AI**, where I explore how human biases can influence AI systems and strategies for mitigating these biases.
+ Hello! I'm a **Software Engineering Master's** student with a strong passion for **full-stack development** specializing in .NET C#. Currently, I'm working on a graduation project focusing on **cognitive biases in AI**, where I explore how human biases can influence AI systems and strategies for mitigating these biases.
 
 I have experience across multiple domains, but I am currently specializing in full-stack development.
 

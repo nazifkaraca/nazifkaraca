@@ -16,7 +16,8 @@
     🌐 Working on **Rapid Api and Api Consume Project** <br>
     💻 Currently learning **.NET C#** <br>
      ✍️ Writing articles on <a href="https://nazifkaraca.medium.com/" target="_blank" style="text-decoration: none; color: blue;">Medium</a> <br>
-    🔍 Currently **open to work** <br>
+    🔍 Currently <strong>open to work</strong>
+    <br>
 </div>
  <br>
  </div>

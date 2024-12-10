@@ -8,17 +8,17 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  Hello! I'm a **Software Engineering Master's** student with a strong passion for **full-stack development** specializing in .NET C#. Currently, I'm working on a graduation project focusing on **cognitive biases in AI**, where I explore how human biases can influence AI systems and strategies for mitigating these biases.
 
-🌐 Working on **Rapid Api and Api Consume Project** <br>
-💻 Currently learning **.NET C#** <br>
- ✍️ Writing articles on <a href="https://nazifkaraca.medium.com/" target="_blank" style="text-decoration: none; color: blue;">Medium</a> <br>
-🔍 Currently **open to work** <br>
-
+<div align="center">
+    🌐 Working on **Rapid Api and Api Consume Project** <br>
+    💻 Currently learning **.NET C#** <br>
+     ✍️ Writing articles on <a href="https://nazifkaraca.medium.com/" target="_blank" style="text-decoration: none; color: blue;">Medium</a> <br>
+    🔍 Currently **open to work** <br>
+</div>
  <br>
-
  </div>
  
 <div align="center"> 
@@ -65,7 +65,7 @@
 
 <h2 align="center">⚡ Interests and Future Goals ⚡</h2>
 <br>
-<div align=center>
+<div align="left">
 
 I'm passionate about **AI and full-stack development**, with a particular interest in how cognitive biases affect AI decision-making. Moving forward, I aim to specialize in **full-stack development**, building robust, scalable applications. My focus is on enhancing my full-stack skills, from frontend to backend, ensuring I stay updated with the latest technologies and best practices in the field.
 

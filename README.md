@@ -39,8 +39,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,matlab" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c#,nextjs,posgresql,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,matlab,python,javascript,c#,postgresql,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,docker" /><br>
 </div>
 
 <br/>
@@ -53,6 +53,9 @@
     <img src="https://github.com/user-attachments/assets/b176e9e1-78f1-412c-a382-52efce25560d" width="25" /> 
   </h2>
   <br>
+    <a href="https://www.linkedin.com/learning/certificates/8c08aef6ae7bc0d8a36b2eaa3415669e2fb806446627bc37a1e66c090b7b0973" target="_blank">  
+        <img src="https://github.com/user-attachments/assets/17a5139d-25e6-4804-be44-bcf05b0f6369" width="193" />
+    </a>
     <a href="https://www.credly.com/earner/earned/badge/ef126fcf-e2d2-4d13-ac47-fff8a041ee73" target="_blank">  
         <img src="https://github.com/user-attachments/assets/4024efca-a257-4b32-ae38-1dfd6f2e1870" width="150" />
     </a>
